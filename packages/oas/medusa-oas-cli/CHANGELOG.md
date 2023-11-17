@@ -1,5 +1,14 @@
 # @medusajs/oas-cli
 
+## 0.2.25
+
+### Patch Changes
+
+- Updated dependencies [[`2947f57db`](https://github.com/medusajs/medusa/commit/2947f57db1cabb343644bde379fa9ec54e9d7750), [`57573ed4d`](https://github.com/medusajs/medusa/commit/57573ed4d7d657d0d98bf00fb756cfbfb9cbcd8d), [`61aef4aaa`](https://github.com/medusajs/medusa/commit/61aef4aaa7295f178c61c9a891f03a0a48b15c81), [`1772e80ed`](https://github.com/medusajs/medusa/commit/1772e80ed1ecab27741be80204f5df92eaa3f2b4), [`b3093c3e3`](https://github.com/medusajs/medusa/commit/b3093c3e3d64e4c024a04d76fb0f727c1c38108b), [`7226f5b69`](https://github.com/medusajs/medusa/commit/7226f5b6997a69bfcdbdd16ec16b209746023f0c), [`cedab5833`](https://github.com/medusajs/medusa/commit/cedab583395275444001f0268e4b9ccab9b2b262), [`52800710a`](https://github.com/medusajs/medusa/commit/52800710a294e32ebda6ba8a224fe85d289bfa0f)]:
+  - @medusajs/medusa@1.17.5
+  - @medusajs/types@1.11.7
+  - @medusajs/utils@1.11.0
+
 ## 0.2.24
 
 ### Patch Changes
