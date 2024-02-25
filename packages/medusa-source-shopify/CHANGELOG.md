@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.2.10
+
+### Patch Changes
+
+- Updated dependencies [[`cedab5833`](https://github.com/medusajs/medusa/commit/cedab583395275444001f0268e4b9ccab9b2b262)]:
+  - @medusajs/utils@1.11.0
+
 ## 1.2.9
 
 ### Patch Changes
